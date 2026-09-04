@@ -2832,7 +2832,7 @@ the hypothesis is wrong.
 For human-computer cooperation in a task such as search by hypothesis
 and test, the complementary nature of functional models suited for use by
 the two parts should be considered, and the techniques used in AI for com-
-puter implementation of qualitative reasoning (Brown and deKleer, 1981;
+puter implementation of qualitative reasoning (Brown and de Kleer, 1981;
 Williams et al., 1982) may be useful for design of intelligent interfaces.
 Training Requirements
 In general, operator training is taken care of separately from systems design
@@ -3901,7 +3901,7 @@ Sensory Input Output Actions
 Model
 Activation
 Control of level and focus of attention
-Control of actionsControl of goals
+Control of actions Control of goals
 Output
 Figure 8.6. Schematic map of the human data -processing functions that illustrates the im-
 portant role of the subconscious dynamic world model as part of a complex loop of interac-
@@ -5827,7 +5827,7 @@ the content of the mental models of human interaction with such systems.
 We will here only repeat some key features of the abstraction hierarchy, as a
 basis for discussion of its role in knowledge-based planning.
 Whole-
-    PartMeans
+    Part Means
 -Ends
 Total
 System
@@ -8845,7 +8845,7 @@ Brooks, L. R. (1968). Spatial and verbal components of the act of recall. Can. J
 
 C
 XCII
-Brown, I. S., and J. DeKleer. (1981).Towards a theory of qualitative reasoning, in, J.
+Brown, I. S., and J. De Kleer. (1981).Towards a theory of qualitative reasoning, in, J.
 Rasmussen and W. Bo Rouse, eds. Human Detection and Diagnosis of System Failures,
 New York: Plenum Press, 317-335.
 Bruner, J. S., J. J. Goodnow, and G. A. Austin. (1956). A Study of Thinking. New York:
@@ -8930,7 +8930,7 @@ Haack, S. (1979). Do we need fuzzy logic? Int. J. Man-Mach. Stud., (11), 437-445
 Hadamard, J. L. (1945). The Psychology of Invention in the Mathematical Field. Princeton:
 Princeton University Press.
 Hamilton, P., G. R. J. Hockey, and M. Rejman. (1977). The place of the concept of activation
-in human information theory. inAttention and Performance, Vol. VI, S. Dornic, ed. New
+in human information theory. in Attention and Performance, Vol. VI, S. Dornic, ed. New
 York: Halsted Press.
 Hammond, K. R., G. H. Mcclelland, and J. Mumpower. (1980). Human Judgment and
 Decision Making. New York: Hemisphere Publishing, Frederick A. Praeger.
