@@ -74,16 +74,18 @@
     <ellipse cx="0" cy="0" rx="70" ry="18" fill="#93714f"/>
     <ellipse cx="0" cy="0" rx="70" ry="18" fill="none" stroke="#4d3826" stroke-width="2"/>
 
-    <!-- Jim, hunched low, only his back and head above the gunwale -->
-    <path d="M-26,-4 Q-16,-25 4,-25 Q23,-25 29,-9 Q12,-15 -7,-14 Q-19,-13 -26,-4 Z" fill="#4a3f33"/>
-    <path d="M-16,-25 Q4,-25 23,-10" fill="none" stroke="#6b5b47" stroke-width="2" opacity="0.7" stroke-linecap="round"/>
-    <circle cx="28" cy="-13" r="6.5" fill="#3a3226"/>
-    <circle cx="30" cy="-15" r="1.6" fill="#d8c9a3"/>
-    <line x1="31" y1="-9" x2="35" y2="-3" stroke="#3a3226" stroke-width="3" stroke-linecap="round"/>
+    <!-- Jim: one consistent dark silhouette - hunched shoulders, head, and an arm to the paddle -->
+    <path d="M-24,-1 Q-16,-18 0,-18 Q14,-18 20,-6 Q20,-3 17,-3 Q6,-10 -6,-9 Q-18,-8 -24,-1 Z" fill="#2e2a22"/>
+    <circle cx="15" cy="-22" r="8.5" fill="#2e2a22"/>
+    <circle cx="20" cy="-22" r="1.7" fill="#e8d9ae"/>
 
-    <!-- paddle, dipped over the side -->
-    <line x1="35" y1="-3" x2="124" y2="40" stroke="#6b4e2c" stroke-width="5" stroke-linecap="round"/>
-    <ellipse cx="128" cy="43" rx="13" ry="5.5" fill="#6b4e2c" transform="rotate(28 128 43)"/>
+    <!-- arm: shoulder to hand gripping the paddle -->
+    <path d="M19,-8 Q30,-2 30,8" fill="none" stroke="#2e2a22" stroke-width="4.5" stroke-linecap="round"/>
+    <circle cx="30" cy="9" r="3.2" fill="#2e2a22"/>
+
+    <!-- paddle, gripped in hand and dipped over the side -->
+    <line x1="30" y1="9" x2="122" y2="40" stroke="#6b4e2c" stroke-width="5" stroke-linecap="round"/>
+    <ellipse cx="126" cy="43" rx="13" ry="5.5" fill="#6b4e2c" transform="rotate(28 126 43)"/>
   </g>
 
   <!-- foreground wave lip passing in front of the coracle for depth -->
