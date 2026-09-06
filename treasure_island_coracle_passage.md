@@ -1,5 +1,7 @@
 # Treasure Island — The Coracle in Choppy Water
 
+![The coracle riding a big blue summit of a wave, Jim hunched low with his paddle dipped over the side](treasure_island_coracle_illustration.png)
+
 From *Treasure Island* by Robert Louis Stevenson, Part Five ("My Sea Adventure"), Chapter 24: "The Cruise of the Coracle."
 
 There was a great, smooth swell upon the sea. The wind blowing steady and gentle from the south, there was no contrariety between that and the current, and the billows rose and fell unbroken.
