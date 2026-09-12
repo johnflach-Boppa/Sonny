@@ -1,0 +1,27 @@
+# FEP and Abduction
+
+**Question:** Can you compare Friston's Free Energy Principle to CS Pierce's Abductive Inference?
+
+The CSE book already draws this exact line (Chapter 16 explicitly invokes Peircean abduction for "skilled muddling," and Chapter 30 lists Peirce's abduction alongside Friston's FEP as parallel "surprise-minimizing" frameworks), so there's real textual grounding here, not just a loose analogy.
+
+## Peircean Abduction, Briefly
+
+Peirce identified three inference types. Deduction (rule + case → result) and induction (case + result → rule) can only confirm or generalize what's already implicit in the data. Abduction (rule + result → case) is the odd one out — it's the only inference that generates a genuinely new explanatory hypothesis. His canonical form: *"The surprising fact, C, is observed. But if A were true, C would be a matter of course. Hence, there is reason to suspect A is true."* Abduction isn't logically valid (it's the fallacy of affirming the consequent) — it's a guess, which then has to be tested by deducing its consequences and checking them against further observation (induction). Peirce saw science as a repeating cycle: abduce a hypothesis, deduce its predictions, induce/verify against experience.
+
+## Where the Two Frameworks Line Up Almost Exactly
+
+- **Surprise is the trigger, in both.** Peirce's abduction starts from *"the surprising fact C is observed."* FEP's central quantity, surprisal, is literally −log P(observation | model) — a formal measure of how surprising an observation is given your current model. Both frameworks treat cognition as something that only kicks into gear because expectation and observation diverge.
+- **Both reject passive registration of data in favor of active hypothesis-testing.** Abduction generates a candidate cause; FEP's perceptual inference revises beliefs to better explain sensory input. Neither is "just perceiving what's there" — both are model-driven guessing.
+- **Peirce's hardest unsolved problem gets a mathematical answer in FEP.** Peirce worried a lot about *why abduction works at all* — the space of logically possible explanations for any surprising fact is infinite, yet people (and scientists) tend to guess good hypotheses efficiently. He appealed to an almost mystical "natural light" (*il lume naturale*), an instinct for guessing right. FEP's free energy has a built-in answer to the same problem: the "complexity" term (KL divergence from your prior) penalizes hypotheses that deviate too far from what you already expected — a formal, quantitative Occam's razor baked into the objective function itself. Where Peirce could only gesture at an instinct, FEP gives you the actual mechanism that would produce one.
+- **Peircean testing and "active inference" are close cousins.** Abduction doesn't stop at guessing — the hypothesis has to be tested by deducing predictions and checking them, which is itself a kind of intervention on the world. In later active inference work, this shows up as *epistemic value* — acting specifically to generate observations that will discriminate between live hypotheses, as opposed to *pragmatic value* — acting to bring about outcomes you already prefer. That epistemic half of active inference is doing essentially the same job as Peircean experimental testing.
+- **Both reject dyadic, linear causal structure in favor of a closed loop.** This is the same point the CSE book makes about Peirce's triadic semiotics (sign–object–interpretant, or in Flach's control-theoretic gloss: affordance–specifying–satisfying) versus a simple stimulus→response chain. FEP's active inference is built the same way — perception, hidden causes, and action are coupled in a loop through a Markov blanket, not a one-way input-to-output pipe.
+
+## Where They Genuinely Diverge
+
+- **Vocabulary and formal status.** Abduction is a category in a logical/semiotic taxonomy, described in terms of propositions and syllogistic form. FEP is a variational, information-theoretic framework — continuous optimization over probability distributions, not discrete inference steps. One is philosophy of logic; the other is applied statistics.
+- **What "truth" means.** Peirce was a pragmatist but not a relativist — for him, truth was the endpoint a community of inquirers would converge on in the indefinite long run; inquiry answers to a mind-independent reality. FEP is explicitly instrumentalist: a system's model is "good" insofar as it predicts *that system's own* sensory states well. There's no built-in notion of convergence on objective truth — which is exactly the point some critics push on, arguing FEP risks a kind of solipsism where all that matters is a system's internal consistency, not correspondence to how the world actually is.
+- **Scope.** Peirce was theorizing about reasoning — specifically how minded, scientific inquirers generate knowledge. FEP is far more totalizing: it's meant to apply to any self-organizing system, down to a single cell, whether or not anything like a "hypothesis" is consciously entertained. Abduction is a theory of inference; FEP is offered as a theory of life.
+
+## The Short Version
+
+FEP reads like a formal, mechanistic answer to a puzzle Peirce raised but couldn't fully solve — how does hypothesis-generation manage to be efficient rather than combinatorially hopeless — dressed in the mathematics of variational inference instead of the vocabulary of logic, and stretched from a theory of scientific reasoning into a theory of biological self-maintenance generally.
