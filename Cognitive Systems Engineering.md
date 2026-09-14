@@ -57,17 +57,18 @@ CHAPTER 30: RE-ENVISIONING BOYD’S OODA LOOP AS A LAYERED (POLYCENTRIC) ADAPTIV
 CHAPTER 31: BOYD: AN ORGANIZATIONAL PERSPECTIVE ................................................................................. 107 
 CHAPTER 32: A POLYCENTRIC CONTROL STORY ............................................................................................ 110 
 OVER THE EDGE ............................................................................................................................. 113 
-CHAPTER 33: TRUTH? A PRAGMATIC PERSPECTIVE ON MEANING ....................................................................... 114 
-CHAPTER 34: GETTING PAST THE BOXES ..................................................................................................... 116 
+CHAPTER 33: METAPHYSICAL FOUNDATIONS OF CSE 114 
+CHAPTER 34: TRUTH? A PRAGMATIC PERSPECTIVE ON MEANING ....................................................................... 114 
+CHAPTER 35: GETTING PAST THE BOXES ..................................................................................................... 116 
 
  3 
-CHAPTER 35: THE MYTH OF ‘CONTROL’ ...................................................................................................... 120 
-CHAPTER 36: EXPLAINING MECHANISMS VS. ORGANISMS ............................................................................... 122 
-CHAPTER 37: PLAYING TWENTY QUESTIONS WITH NATURE .............................................................................. 127 
-CHAPTER 38: WHAT TIME IS IT? ................................................................................................................. 130 
-CHAPTER 39: ALL CIRCLES ARE NOT THE SAME ............................................................................................. 133 
-CHAPTER 40: EXPERIENCE: REALITY OR ILLUSION .......................................................................................... 135 
-CHAPTER 41: DO WE MAKE OR DISCOVER MEANING? .................................................................................... 137 
+CHAPTER 36: THE MYTH OF ‘CONTROL’ ...................................................................................................... 120 
+CHAPTER 37: EXPLAINING MECHANISMS VS. ORGANISMS ............................................................................... 122 
+CHAPTER 38: PLAYING TWENTY QUESTIONS WITH NATURE .............................................................................. 127 
+CHAPTER 39: WHAT TIME IS IT? ................................................................................................................. 130 
+CHAPTER 40: ALL CIRCLES ARE NOT THE SAME ............................................................................................. 133 
+CHAPTER 41: EXPERIENCE: REALITY OR ILLUSION .......................................................................................... 135 
+CHAPTER 42: DO WE MAKE OR DISCOVER MEANING? .................................................................................... 137 
 ABOUT THE AUTHOR ...................................................................................................................... 140 
  
   
@@ -2874,7 +2875,20 @@ Over the Edge
 
  114 
  
-Chapter 33: Truth? A Pragmatic Perspective on Meaning 
+Chapter 33: Metaphysical Foundations of CSE
+
+![Diagram of the Semiotic Triad (Satisfying, Specifying, Affording) connecting Agent (mind) and Environment (matter), flanked by the paired outer puzzle pieces of Awareness (Intention, Perspicacity, Effectivity) and Situation (Consequence, Structure, Possibility).](CSE_Figure_Ch33_Semiotic_Triad.png)
+
+Whether we explicitly acknowledge it or not, all our beliefs about the world are based on metaphysical assumptions about the nature of reality (an ontology) and the constraints on our ability to know reality (an epistemology). Most of us inherit these assumptions from our culture.
+Those of us who have grown up in Western cultures inherited a dualist ontology from our culture - that is the assumption that there are two distinct realities. One of these realities is the domain of the physical sciences (objective matter, body) and the other is the domain of the social sciences (including theology) (subjective beliefs, mind, spirit or soul). It is assumed that these are two fundamentally different types of stuff, operating as a function of different principles/laws. It is generally assumed that one of these realities cannot be reduced to the other. This is represented in the diagram as the disconnected puzzle pieces on the right and left.
+Given a dualist ontology the epistemological question is how these two distinct realities are coupled. In essence, the question is how can a mind perceive, control, or know matter? In other words, how is it possible for a reality of mind to interact skillfully in a reality of matter.
+The dominant view is that the mind has to construct a theory of matter through hints provided through the impoverished feedback resulting from our interactions with the material world. Thus, the assumption is that our ability to know matter is mediated by representations (internal models, theories) that we construct in our minds as a result of perceiving and acting in the world. With respect to the image above, the fit of the puzzle pieces in the center depends on intervening representations in our mind.
+However, there is an alternative view, that argues that our interactions with the world provides more than hints about the world. This position, associated with an Ecological Psychology (James Gibson) posits that the world of matter (the ecology) is directly specified by the rich feedback generated through our perception/action coupling with the world. In essence, the ecological framework suggests that the coupling reflected in the joined pieces at the center of the image does not require mediation through internal representations. Rather, the fit emerges directly as a result of attuning to the rich feedback that results from acting in a material world.
+Most people approach Cognitive Systems Engineering (CSE) from one of these two epistemological camps. In either case, the fundamental role of technology is to enhance the coupling between agents and their ecologies. That is, to improve the coupling between the cognitive reality (the mind) and the physical reality (the system). In the dominant view, the goal is to add information to enhance internal representations in ways that improve our ability to act on the system. In the ecological view, the goal is to shape our attention so that we can fully utilize (attune to) the rich feedback that the system provides.
+However, I contend that Cognitive Systems Engineering is based on a far more radical challenge to conventional Metaphysics. I contend that CSE is based on a monist ontology in which the Cognitive System (both mind and matter) are considered to be joined within a single reality. Thus, in relation to the image above the center portion of the diagram represents a reality that is a conjoint function of mind and matter, and the separated pieces on either side represent two different epistemological perspectives on that reality.
+This radical position was first advocated by William James with his Radical Empiricist ontology that posits that experience is jointly determined by mind and matter and that it is ontologically prior to the reduction into subjective and objective perspectives. More recently, this monist ontology has been independently articulated by Robert Pirsig in his Metaphysics of Quality. He uses the term quality to refer to the unified reality that is prior to and more basic than the subjective and objective epistemic derivatives.
+I know this perspective will be uncomfortable to people who have grown up in Western cultures. However, I suggest that the first step toward fully appreciating the CSE perspective is to mindfully consider your ontological and epistemic assumptions. Whether or not you agree with my position, I suggest that you will be wiser if you actively question the metaphysical assumptions that you inherited from your culture.
+Chapter 34: Truth? A Pragmatic Perspective on Meaning 
 Is there such a thing as an 'objective truth' that is independent of an individual's 
 experience? For many, the point of science is to discover such a truth that is invariant 
 across observers.  On the other hand, one might ask whether the unique subjective 
@@ -2928,7 +2942,7 @@ consequences of our actions!
   
 
  116 
-Chapter 34: Getting Past the Boxes 
+Chapter 35: Getting Past the Boxes 
  
 Since the introduction of the information processing model of human performance - box 
 diagrams have been a dominant form for representing cognitive processes. Unfortunately, 
@@ -3009,7 +3023,7 @@ theory. McGraw-Hill.
   
 
  120 
-Chapter 35: The Myth of ‘Control’ 
+Chapter 36: The Myth of ‘Control’ 
  
 In 1978, Rich Jagacinski hired me as a graduate research assistant to help with a project to 
 compare peoples' ability to track a target based on kinesthetic feedback with the ability to 
@@ -3063,7 +3077,7 @@ What Matters? New York: Routledge.
   
 
  122 
-Chapter 36: Explaining Mechanisms vs. Organisms 
+Chapter 37: Explaining Mechanisms vs. Organisms 
  
  
 Early breakthroughs with respect to explaining mechanisms or inanimate things have 
@@ -3210,7 +3224,7 @@ consequences, stable balance with the ecology, survival).
   
 
  127 
-Chapter 37: Playing Twenty Questions with Nature 
+Chapter 38: Playing Twenty Questions with Nature 
  
 
 
@@ -3268,7 +3282,7 @@ physical and social contexts.
   
 
  130 
-Chapter 38: What Time is it? 
+Chapter 39: What Time is it? 
  
  Have you ever become so engrossed in an event that time just flew by? When an hour seemed 
 like minutes? Have you ever been surprised to find that a companion did not share your feelings? 
@@ -3333,7 +3347,7 @@ alternative ways to think about how events are experienced by biological systems
 
 
  133 
-Chapter 39: All Circles are Not the Same 
+Chapter 40: All Circles are Not the Same 
  
 With respect to the logic of block diagrams, the four diagrams above are all identical. Thus, 
 the similarities illustrate that the four paradigms all accept that cognition involves a 
@@ -3384,7 +3398,7 @@ arguments that unproductively circle the same tree over and over.
   
 
  135 
-Chapter 40: Experience: Reality or Illusion 
+Chapter 41: Experience: Reality or Illusion 
  
 It's the same temperature, as measured by the thermometer, but one person experiences 
 miserable cold, while another experiences a refreshing chill. Which experience is 'true' or 
@@ -3432,7 +3446,7 @@ fundamental units of analysis.
   
 
  137 
-Chapter 41: Do we Make or Discover Meaning? 
+Chapter 42: Do we Make or Discover Meaning? 
  
 In discussions about the nature of cognition, a central question focuses on how meaning 
 emerges from interactions between agents and their environments. It seems clear that the 
