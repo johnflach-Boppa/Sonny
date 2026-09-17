@@ -10,7 +10,7 @@ It may be useful to distinguish three classes of systems:
   - Emerge as a function of thermodynamic principles
   - Quality depends on efficiency of dissipating energy.
   - Example: Tornado
-- **Self-Designing Systems (Organism)**
+- **Self-Designing Systems (Organisms)**
   - Emerge as a function of internal agency (intrinsic purpose to survive)
   - Quality depends on internal agency - adaptive coupling with an ecology
   - Example: Plant, Animal
