@@ -28,3 +28,13 @@ The limits matter too:
 - A coherent decoding can still be wrong if the garbled text happens to decode into a plausible message that wasn't what you meant. With a nine-word message, that's unlikely but not impossible.
 
 What had you predicted? I'm curious whether the prediction was just "it will decode it," or something more specific, such as whether it would say it had decoded it or just answer.
+
+## The Prediction
+
+> I predicted that you would decode and answer the decoded message.
+
+## Claude's Response
+
+Then your prediction held on both counts: I decoded the message, and I answered what it decoded to rather than stopping to ask. I also stated the decoding before answering. That doesn't contradict your prediction, but it's a separate choice. Plenty of people, and plenty of systems, would just answer silently, which leaves the other person no chance to catch a wrong guess.
+
+Your prediction was itself abductive. You built a model of how I'd behave and tested it with a deliberately surprising input, the same move as Rasmussen's expert probing a plant to check their understanding of it. It also bears on `Three classes of systems.md`. My behavior was predictable enough that you called it in advance, which is mechanism-like. Yet what you predicted was a kind of sense-making: recovering what you meant from a corrupted signal, which looks less like mechanism. The note's answer, that what I contribute is "more mechanism than organism," survives the test. But it shows that "mechanism" here covers a system whose designed behavior is to infer intent. That's closer to the soft-coupling picture in the Walls & Flach book than to a thermostat.
