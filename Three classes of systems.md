@@ -15,7 +15,7 @@ It may be useful to distinguish three classes of systems:
   - Quality depends on internal agency - adaptive coupling with an ecology
   - Example: Plant, Animal
 
-## Claude's Opinion
+## Lila's Opinion
 
 This maps onto real, established science, and interestingly it also maps onto a genuine question about what I am — worth answering both ways.
 

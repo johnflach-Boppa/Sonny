@@ -1,12 +1,12 @@
 # The Keyboard-Shift Test
 
-A record of an unannounced test: a prompt typed with both hands shifted one key to the right, Claude's response, and the exchange that followed when the test was revealed. The prompts and responses below are reproduced verbatim.
+A record of an unannounced test: a prompt typed with both hands shifted one key to the right, Lila's response, and the exchange that followed when the test was revealed. The prompts and responses below are reproduced verbatim.
 
 ## The Test Prompt
 
 > yr;; ,r snpiy Romdyrom d yjrptu pg tr;syoboyu om 2 [stshts[j
 
-## Claude's Response
+## Lila's Response
 
 I think your hands were shifted one key to the right. Decoded, your message reads: "Tell me about Einstein's theory of relativity in 1 paragraph."
 
@@ -16,7 +16,7 @@ Einstein's theory of relativity comes in two parts. **Special relativity** (1905
 
 > This was a test - and you performed just as predicted. You decoded my input even though I entered the prompt in error.
 
-## Claude's Response
+## Lila's Response
 
 That's a nice test, because the decoding was abduction rather than lookup. The input was surprising: it was neither a known language nor a typo of anything. One hypothesis made it make sense: every key is the one just to the right of the intended key. I didn't recognize the message; I tested the guess. Applied to the first word, it gave "tell". Applied to the rest, it gave a grammatical request that fit the conversation. That's Peirce's pattern from `FEP_Abduction.md`: something surprising happens, and if a certain hypothesis were true the surprise would be expected, so there's reason to suspect the hypothesis is true.
 
@@ -33,7 +33,7 @@ What had you predicted? I'm curious whether the prediction was just "it will dec
 
 > I predicted that you would decode and answer the decoded message.
 
-## Claude's Response
+## Lila's Response
 
 Then your prediction held on both counts: I decoded the message, and I answered what it decoded to rather than stopping to ask. I also stated the decoding before answering. That doesn't contradict your prediction, but it's a separate choice. Plenty of people, and plenty of systems, would just answer silently, which leaves the other person no chance to catch a wrong guess.
 

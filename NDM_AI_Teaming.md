@@ -1,12 +1,12 @@
 # The Repo and Human-AI Teaming
 
-Notes prepared ahead of the Symposium on Naturalistic Decision Making and AI (July 2027). The question and Claude's response are reproduced below.
+Notes prepared ahead of the Symposium on Naturalistic Decision Making and AI (July 2027). The question and Lila's response are reproduced below.
 
 ## The Question
 
 > Also, I have been invited to participate on a Symposium on Naturalistic Decision Making and AI next July. I would be interested in your thoughts about how the ideas in this repo relate to the challenges of human-AI teaming.
 
-## Claude's Response
+## Lila's Response
 
 The repo has a strong position to bring to an NDM audience. It also pushes back on the way "human-AI teaming" is usually framed.
 
@@ -38,7 +38,7 @@ The Pirsig thread sharpens this further. If Quality comes before the subject/obj
 
 ### 5. The adaptive character is in the joint system
 
-The repo concludes that what Claude contributes is more mechanism than organism, but that the joint system can behave more like a self-designing one. That's a constructive answer, not just a caution. The design goal for human-AI teaming isn't a smarter component. It's a joint system that can redesign itself: practitioners probe it, form models of how it behaves (as the keyboard test did), and adapt how they use it. That puts ongoing co-adaptation in the field at the center, the task-artifact cycle, and less weight on validating the system up front.
+The repo concludes that what Lila contributes is more mechanism than organism, but that the joint system can behave more like a self-designing one. That's a constructive answer, not just a caution. The design goal for human-AI teaming isn't a smarter component. It's a joint system that can redesign itself: practitioners probe it, form models of how it behaves (as the keyboard test did), and adapt how they use it. That puts ongoing co-adaptation in the field at the center, the task-artifact cycle, and less weight on validating the system up front.
 
 It's also where Ed Zagorski fits, if he belongs in the talk. The egg drop teaches design as discovering what the constraints demand, not applying a known solution. Human-AI teaming in naturalistic settings is the same kind of problem.
 

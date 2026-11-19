@@ -26,6 +26,7 @@ Everything in this repo circles one question, approached from a dozen directions
 - Source documents (PDF/docx) get converted to markdown faithfully; artifacts from extraction (ligature corruption, dropped hyperlinks, stray page numbers) get caught and either fixed or flagged rather than silently passed through.
 - Markdown to PDF runs through a hand-built pipeline (Python `markdown` → headless Chrome DevTools Protocol → PDF), since this machine's Intel architecture makes heavier tools like poppler or LaTeX painfully slow to install. Real, clickable links get verified by checking the PDF's `/Annots` directly, not assumed from how it looks.
 - Nothing gets committed or pushed without asking first, every time, regardless of how many times it's been approved before.
+- When conversations or responses are recorded into the repo, the assistant is referred to as "Lila", not "Claude", to reflect the specific teaming and shared history built here.
 - When a document needs illustration and no image model is available, the honest move is a hand-built SVG, disclosed as such — not a claim to be something it isn't.
 
 ## A Standing Note
